@@ -1,7 +1,21 @@
+/*@import "https://chinese-fonts-cdn.deno.dev/packages/syst/dist/SourceHanSerifCN/result.css";*/
+@import url("https://fontsapi.zeoseven.com/285/main/result.css");
 body {
-  font-family: "Montserrat", "SF UI Text", "PingFang SC", "Hiragino Sans GB",
-    "Microsoft YaHei", "Segoe UI", "Helvetica Neue", Helvetica,
-    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
+
+/*  font-family:'Source Han Serif CN VF';*/
+
+
+/*font-family: "Montserrat", "SF UI Text", "PingFang SC", "Hiragino Sans GB",*/
+/*    "Microsoft YaHei", "Segoe UI", "Helvetica Neue", Helvetica,*/
+/*    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;*/
+
+  /*font-family: 'Source Han Serif CN VF', "Montserrat", "SF UI Text", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Segoe UI", "Helvetica Neue", Helvetica, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;*/
+  font-family: "Noto Serif CJK", "Montserrat", "SF UI Text", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Segoe UI", "Helvetica Neue", Helvetica, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
+  font-weight: normal;
+  /*font-feature-settings: "hwid";*/
+
   font-size: 16px;
   line-height: 1.75;
   letter-spacing: 0.6px;

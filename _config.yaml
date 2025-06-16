@@ -1,9 +1,9 @@
-title: typo
-favicon: /icon.svg
-icon: /icon.svg
+title: undefined's Blog
+favicon: /favicon.ico
+icon: /favicon.ico
 
 menu:
-  archives: /archives
-  about: /about
+  归档: /archives
+  关于: /about
 
-copyright: 2024 typo
+copyright: undefined's Blog

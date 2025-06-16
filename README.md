@@ -82,3 +82,8 @@ copyright: 2024 typo
 👉🏻 来 [这里](https://github.com/rankangkang/hexo-themes) 快速开始，这可能会很有帮助 ~
 
 😁 Happy coding ~
+
+## 针对原项目的简单改动
+- 修改字体为思源宋体
+- 脚注增加了更多的功能
+- 优化了一些 css 文件
